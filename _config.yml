@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Adam Kasperowicy"
+  name             : "Adam Kasperowicz"
   avatar           : "profile.png"
   bio              : "Making machine learning on blockchain using quantum computing happen"
   location         : "Warsaw, Poland"
@@ -203,15 +203,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
