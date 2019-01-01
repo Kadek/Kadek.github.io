@@ -64,6 +64,8 @@ Skills
   * OpenCL
 * FrontEnd(HTML, CSS, JavaScript)
   * JQuery
+  * Angular
+  * Vue
 * Blockchain
   * Web3j - Java implementation
   * Solidity - Truffle, Ganache
